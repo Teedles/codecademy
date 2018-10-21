@@ -21,7 +21,7 @@ print('train: ', digits_train.shape, 'test: ',  digits_test.shape)
 
 #initial setup
 # find a good k
-
+# git messing about again
 # inertia = []
 # 
 # for k in range(1, 101):
